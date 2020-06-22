@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Question12_Extends</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="PTra12_01.cs" />
+    <Compile Remove="PTra12_02.cs" />
+    <Compile Remove="PTra12_03.cs" />
+    <Compile Remove="PTra12_04.cs" />
+    <Compile Remove="PTra12_05.cs" />
+    <Compile Remove="PTra12_06.cs" />
+    <Compile Remove="PTra12_07.cs" />
+  </ItemGroup>
+
+</Project>
